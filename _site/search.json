@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "website",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Ashley Henry",
     "section": "",
     "text": "I am a former active duty US Navy Information Systems Technician (IT) who transitioned into the public sector, where I began my technical writing journey. I describe myself as a “software-curious writer” and believe that the best technical content results from learning about and testing software.\n\n\n\n\nAs the lead technical writer at Posit (formerly RStudio, PBC.), I split my time between writing and managing our user-facing documentation and supporting our three enterprise product teams. More recently, I’ve prioritized internal process improvement and training by creating an internal technical writing training and resources site that is valuable for new and existing employees, software developers, and technical writers."
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "{fig-alt=“““}"
   },
   {
     "objectID": "writing.html",

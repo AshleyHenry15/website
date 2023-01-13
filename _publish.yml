@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: d3e4f074-8249-4dc9-85f6-a695cea6c335
+      url: 'https://fabulous-marzipan-42f65d.netlify.app'
