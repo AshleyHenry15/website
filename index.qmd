@@ -1,0 +1,44 @@
+---
+pagetitle: "Quarto"
+page-layout: custom
+section-divs: false
+toc: false
+css: index.css
+editor: source
+description: | 
+image: /images/
+page-navigation: true
+---
+
+::: {.hero-banner}
+
+
+::: {.content-block}
+
+![](images/ashley.png){fig-alt="Ashley avatar." width="300px"}
+
+# Ashley Henry
+
+### LEAD TECHNICAL WRITER, ENTERPRISE PRODUCTS @ POSIT
+
+::: {.intro-text}
+I am a technical writer with over ten years of enterprise documentation experience. I take pride in my ability to empathize with our users and write easily-digestible content.
+:::
+
+::: {.hero-buttons}
+[About me](about.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+::: 
+
+:::
+
+:::
+
+::: {.content-block style="margin-top:100px"}
+::: {.callout-warning appearance="simple"}
+
+## Under Construction
+
+This site is currently undergoing many changes. I recently migrated my website content to be published with a new tool, so I am working through the growing pains, e.g., resizing issues on the main page.
+
+:::
+:::

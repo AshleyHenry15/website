@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Ashley Henry",
+    "section": "",
+    "text": "I am a former active duty US Navy Information Systems Technician (IT) who transitioned into the public sector, where I began my technical writing journey. I describe myself as a “software-curious writer” and believe that the best technical content results from learning about and testing software.\n\n\n\n\nAs the lead technical writer at Posit (formerly RStudio, PBC.), I split my time between writing and managing our user-facing documentation and supporting our three enterprise product teams. More recently, I’ve prioritized internal process improvement and training by creating an internal technical writing training and resources site that is valuable for new and existing employees, software developers, and technical writers."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "{fig-alt=“““}"
+  },
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Writing",
+    "section": "",
+    "text": "At Posit, our developers are also part of the technical writing team; we all contribute to the documentation. Below, I have listed several URLs pointing to Posit documentation I originally authored, but there is a good chance that I was not the last to update or edit those pages.\nhttps://docs.posit.co/networking/\nhttps://docs.posit.co/rsc/manual-install/\nhttps://docs.posit.co/how-to-guides/pre-tasks/connect-account\nhttps://docs.posit.co/how-to-guides/users/basic/publish-jupyter-notebook\nhttps://docs.posit.co/how-to-guides/users/basic/publish-plumberapi\nhttps://docs.posit.co/how-to-guides/users/basic/publish-rmd\nhttps://docs.posit.co/how-to-guides/users/basic/publish-shinyapp\nhttps://docs.posit.co/how-to-guides/users/pro-tips/widgets"
+  }
+]

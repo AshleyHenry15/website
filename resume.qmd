@@ -1,0 +1,6 @@
+---
+title: "Resume"
+---
+
+
+![](files/Henry-Resume_Current.pdf){fig-alt="" height="1000px" width="700px"}

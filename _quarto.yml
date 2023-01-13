@@ -1,0 +1,29 @@
+project:
+  type: website
+  title: Ashley Henry
+
+website:
+  title: "Ashley Henry"
+  site-url: https://ashley-henry.com
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - resume.qmd
+      - writing.qmd
+    right:
+      - url: "https://github.com/AshleyHenry15"      
+        icon: github
+      - url: "https://www.linkedin.com/in/ashleynoelbrayman/"
+        icon: linkedin
+  page-navigation: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

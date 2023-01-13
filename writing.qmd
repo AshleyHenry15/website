@@ -1,0 +1,22 @@
+---
+title: "Writing"
+---
+
+At Posit, our developers are also part of the technical writing team; we all contribute to the documentation. Below, I have listed several URLs pointing to Posit documentation I originally authored, but there is a good chance that I was not the last to update or edit those pages.
+
+<a href="https://docs.posit.co/networking/">https://docs.posit.co/networking/</a>
+
+<a href="https://docs.posit.co/rsc/manual-install/">https://docs.posit.co/rsc/manual-install/</a>
+
+<a href="https://docs.posit.co/how-to-guides/pre-tasks/connect-account">https://docs.posit.co/how-to-guides/pre-tasks/connect-account</a>
+
+<a href="https://docs.posit.co/how-to-guides/users/basic/publish-jupyter-notebook">https://docs.posit.co/how-to-guides/users/basic/publish-jupyter-notebook</a>
+
+<a href="https://docs.posit.co/how-to-guides/users/basic/publish-plumberapi">https://docs.posit.co/how-to-guides/users/basic/publish-plumberapi</a>
+
+<a href="https://docs.posit.co/how-to-guides/users/basic/publish-rmd">https://docs.posit.co/how-to-guides/users/basic/publish-rmd</a>
+
+
+<a href="https://docs.posit.co/how-to-guides/users/basic/publish-shinyapp">https://docs.posit.co/how-to-guides/users/basic/publish-shinyapp</a>
+
+<a href="https://docs.posit.co/how-to-guides/users/pro-tips/widgets">https://docs.posit.co/how-to-guides/users/pro-tips/widgets</a>
